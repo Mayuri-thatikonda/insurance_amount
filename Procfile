@@ -1,2 +1,3 @@
-web: gunicorn app:app
+web: run this thing 
+
 
